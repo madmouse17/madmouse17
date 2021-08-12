@@ -10,3 +10,4 @@
 ### Social Media
 <a href="https://www.facebook.com/galih.sendeirly">![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)</a>
 <a href="https://www.instagram.com/galihrf">![Instagram](https://img.shields.io/badge/-Facebook-000?&logo=Instagram)</a>
+<a href="https://www.instagram.com/galihrf">![Linkedin](https://img.shields.io/badge/-Facebook-000?&logo=Linkedin)</a>

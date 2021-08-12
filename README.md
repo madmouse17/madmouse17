@@ -8,6 +8,6 @@
 ![MYSQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Social Media
-<a href="https://www.facebook.com/galih.sendeirly">![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)</a>
-<a href="https://www.instagram.com/galihrf">![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)</a>
-<a href="https://www.linkedin.com/in/galih-rf-b75a481b0/">![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)</a>
+<a href="https://www.facebook.com/galih.sendeirly" target="_blank">![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)</a>
+<a href="https://www.instagram.com/galihrf" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)</a>
+<a href="https://www.linkedin.com/in/galih-rf-b75a481b0/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)</a>

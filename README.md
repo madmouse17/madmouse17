@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![MYSQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=madmouse17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 

@@ -8,4 +8,4 @@
 ![MYSQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Social Media
-![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)
+![Facebook](https://facebook.com)

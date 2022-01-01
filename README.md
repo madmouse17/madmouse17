@@ -10,6 +10,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=madmouse17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![github code's]("https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madmouse17&layout=compact&langs_count=8&theme=algolia")
 
 ### Social Media
 <a href="https://www.facebook.com/galih.sendeirly" target="_blank">![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)</a>

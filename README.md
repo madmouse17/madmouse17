@@ -2,6 +2,7 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 - 🎯 Portfolio website: [Portfolio](https://portofolio-galihrf.herokuapp.com/)
+- 
 ### Languages
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -9,8 +10,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=madmouse17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![github code's]("https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madmouse17&layout=compact&langs_count=8&theme=algolia")
+### GitHub Analytics
+<a href="https://github.com/madmouse17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madmouse17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madmouse17&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 ### Social Media
 <a href="https://www.facebook.com/galih.sendeirly" target="_blank">![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)</a>

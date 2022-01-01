@@ -2,7 +2,6 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 - 🎯 Portfolio website: [Portfolio](https://portofolio-galihrf.herokuapp.com/)
-- 
 ### Languages
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

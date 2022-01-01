@@ -1,5 +1,5 @@
 <!-- [![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)If you want the template for my gif, email me! -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 - 🎯 Portfolio website: [Portfolio](https://portofolio-galihrf.herokuapp.com/)
 ### Languages

@@ -8,6 +8,7 @@
 - 🎯 Portfolio website: [Portfolio](https://portofolio-galihrf.herokuapp.com/)
 ### Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)

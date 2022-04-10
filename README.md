@@ -17,7 +17,7 @@
 ### GitHub Analytics <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 <a href="https://github.com/madmouse17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madmouse17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madmouse17&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madmouse17&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
 ### Social Media <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">

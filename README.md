@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/madmouse?label=Follow&style=social)](https://github.com/madmouse17)
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-- 🎯 Portfolio website: [Portfolio](https://portofolio-galihrf.herokuapp.com/)
+- 🎯 Portfolio website: [Portfolio](https://madmouse17.github.io/)
 ### Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)

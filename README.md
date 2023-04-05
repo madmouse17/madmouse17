@@ -1,7 +1,8 @@
 <!-- [![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)If you want the template for my gif, email me! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%23000000&size=15&lines=Welcome+to+Madmouse+Github;Don't+Forget+To+Follow;Don't+Forget+To+Stars;Thanks+For+Coming)](https://git.io/typing-svg) <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=madmouse17)
+<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=madmouse17) -->
+![](https://komarev.com/ghpvc/?username=madmouse17&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/madmouse?label=Follow&style=social)](https://github.com/madmouse17)
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 

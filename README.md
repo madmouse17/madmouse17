@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madmouse17&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
-### Social Media <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+<!-- ### Social Media <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
 <a href="https://www.facebook.com/galih.sendeirly" target="_blank">![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)</a>
 <a href="https://www.instagram.com/galihrf" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)</a>
-<a href="https://www.linkedin.com/in/galih-rf-b75a481b0/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)</a>
+<a href="https://www.linkedin.com/in/galih-rf-b75a481b0/" target="_blank">![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)</a> -->

@@ -16,7 +16,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL)
 
 ### Support Me :
-<a href="https://www.buymeacoffee.com/danz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### GitHub Analytics <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 <a href="https://github.com/madmouse17">
